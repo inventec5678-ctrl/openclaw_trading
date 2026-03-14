@@ -1,0 +1,321 @@
+{
+  "timestamp": "2026-03-14 20:57:54",
+  "total_stocks_analyzed": 20,
+  "stocks_above_70": 4,
+  "high_win_rate_stocks": [
+    {
+      "symbol": "0050.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 62,
+      "losses": 26,
+      "total_trades": 88,
+      "win_rate": 70.45
+    },
+    {
+      "symbol": "2881.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 85,
+      "losses": 28,
+      "total_trades": 113,
+      "win_rate": 75.22
+    },
+    {
+      "symbol": "2885.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 114,
+      "losses": 37,
+      "total_trades": 151,
+      "win_rate": 75.5
+    },
+    {
+      "symbol": "2891.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 86,
+      "losses": 33,
+      "total_trades": 119,
+      "win_rate": 72.27
+    }
+  ],
+  "all_results": [
+    {
+      "symbol": "0050.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 62,
+      "losses": 26,
+      "total_trades": 88,
+      "win_rate": 70.45
+    },
+    {
+      "symbol": "2330.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 20
+      },
+      "wins": 76,
+      "losses": 44,
+      "total_trades": 120,
+      "win_rate": 63.33
+    },
+    {
+      "symbol": "2317.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 54,
+      "losses": 49,
+      "total_trades": 103,
+      "win_rate": 52.43
+    },
+    {
+      "symbol": "2454.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 20
+      },
+      "wins": 72,
+      "losses": 45,
+      "total_trades": 117,
+      "win_rate": 61.54
+    },
+    {
+      "symbol": "2603.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 55,
+      "losses": 46,
+      "total_trades": 101,
+      "win_rate": 54.46
+    },
+    {
+      "symbol": "2303.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 79,
+      "losses": 38,
+      "total_trades": 117,
+      "win_rate": 67.52
+    },
+    {
+      "symbol": "2379.TW",
+      "best_params": {
+        "score_threshold": 60,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 101,
+      "losses": 71,
+      "total_trades": 172,
+      "win_rate": 58.72
+    },
+    {
+      "symbol": "2382.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 162,
+      "losses": 98,
+      "total_trades": 260,
+      "win_rate": 62.31
+    },
+    {
+      "symbol": "2409.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 100,
+      "losses": 125,
+      "total_trades": 225,
+      "win_rate": 44.44
+    },
+    {
+      "symbol": "2474.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 154,
+      "losses": 126,
+      "total_trades": 280,
+      "win_rate": 55.0
+    },
+    {
+      "symbol": "2316.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 20
+      },
+      "wins": 112,
+      "losses": 117,
+      "total_trades": 229,
+      "win_rate": 48.91
+    },
+    {
+      "symbol": "2633.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 118,
+      "losses": 143,
+      "total_trades": 261,
+      "win_rate": 45.21
+    },
+    {
+      "symbol": "2881.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 85,
+      "losses": 28,
+      "total_trades": 113,
+      "win_rate": 75.22
+    },
+    {
+      "symbol": "2884.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 151,
+      "losses": 82,
+      "total_trades": 233,
+      "win_rate": 64.81
+    },
+    {
+      "symbol": "2885.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 114,
+      "losses": 37,
+      "total_trades": 151,
+      "win_rate": 75.5
+    },
+    {
+      "symbol": "2891.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 86,
+      "losses": 33,
+      "total_trades": 119,
+      "win_rate": 72.27
+    },
+    {
+      "symbol": "2912.TW",
+      "best_params": {
+        "score_threshold": 65,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 20
+      },
+      "wins": 55,
+      "losses": 56,
+      "total_trades": 111,
+      "win_rate": 49.55
+    },
+    {
+      "symbol": "3008.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 131,
+      "losses": 110,
+      "total_trades": 241,
+      "win_rate": 54.36
+    },
+    {
+      "symbol": "3034.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 30
+      },
+      "wins": 115,
+      "losses": 119,
+      "total_trades": 234,
+      "win_rate": 49.15
+    },
+    {
+      "symbol": "2002.TW",
+      "best_params": {
+        "score_threshold": 55,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "holding_days": 20
+      },
+      "wins": 108,
+      "losses": 121,
+      "total_trades": 229,
+      "win_rate": 47.16
+    }
+  ]
+}
